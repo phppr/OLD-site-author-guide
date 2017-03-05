@@ -1,3 +1,5 @@
+> :warning: Projeto muito antigo e depreciado!
+
 #Bem vindo(a)!
 _v 0.1_
 
